@@ -21,3 +21,6 @@ option_settings:
 change app.py to application.py
 
 ````
+#### Docker basic command ###
+```
+docker build -t "imagename:latest(version no.)" .(. is a source)
